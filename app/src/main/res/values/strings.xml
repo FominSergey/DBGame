@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DBGame</string>
+    <string name="title_activity_ho_f">Hall Of Flame</string>
+    <string name="title_activity_ext_results">ExtResults</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_player">Player Activity</string>
+
+</resources>

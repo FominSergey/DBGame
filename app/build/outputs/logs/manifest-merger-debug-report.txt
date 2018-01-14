@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\42642dd0fd12a2b78fa5ec94ceea3aa5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6fa0d138f2b94b4c5f5a24e91e3510cb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\3d204219a18cb45376a4d32f03d7d81c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\1a99c47e3313b80ccf877782cd48ec65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\f0212cee81c19e085cb2a5b954a050b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\68e429675231693b5d25d7a0a36c53a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\269fffbb5dcfbd1219c818209f0ee51f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\f12db9f6e489a0ffa02c043aa1faf3a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\c4833f7b827f8e731d483ed14ef0b2d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\ea56f2e568f782481cca3d38e6609923\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\2c948ba46cefcd54b9ed18bb656aa6d7\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\42642dd0fd12a2b78fa5ec94ceea3aa5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\42642dd0fd12a2b78fa5ec94ceea3aa5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6fa0d138f2b94b4c5f5a24e91e3510cb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6fa0d138f2b94b4c5f5a24e91e3510cb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\3d204219a18cb45376a4d32f03d7d81c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\3d204219a18cb45376a4d32f03d7d81c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\1a99c47e3313b80ccf877782cd48ec65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\1a99c47e3313b80ccf877782cd48ec65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\f0212cee81c19e085cb2a5b954a050b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\f0212cee81c19e085cb2a5b954a050b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\68e429675231693b5d25d7a0a36c53a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\68e429675231693b5d25d7a0a36c53a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\269fffbb5dcfbd1219c818209f0ee51f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\269fffbb5dcfbd1219c818209f0ee51f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\f12db9f6e489a0ffa02c043aa1faf3a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\f12db9f6e489a0ffa02c043aa1faf3a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\c4833f7b827f8e731d483ed14ef0b2d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\c4833f7b827f8e731d483ed14ef0b2d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\ea56f2e568f782481cca3d38e6609923\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\ea56f2e568f782481cca3d38e6609923\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\2c948ba46cefcd54b9ed18bb656aa6d7\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\2c948ba46cefcd54b9ed18bb656aa6d7\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:11:5-13:35
+	android:required
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:13:9-32
+	android:name
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:12:9-47
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:15:5-17:38
+	android:maxSdkVersion
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:17:9-35
+	android:name
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:16:9-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:19:22-77
+application
+ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:21:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6fa0d138f2b94b4c5f5a24e91e3510cb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vladimir.iljin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6fa0d138f2b94b4c5f5a24e91e3510cb\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:22:9-44
+	android:theme
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:24:9-40
+activity#ru.samsung.itschool.dbgame.PlayerActivity
+ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:25:9-27:61
+	android:label
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:27:13-58
+	android:name
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:26:13-43
+activity#ru.samsung.itschool.dbgame.MainActivity
+ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:28:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:32:27-74
+activity#ru.samsung.itschool.dbgame.HoFActivity
+ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:35:9-49
+	android:name
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:35:19-46
+activity#ru.samsung.itschool.dbgame.SplashActivity
+ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:36:9-61
+	android:name
+		ADDED from C:\Users\vladimir.iljin\Desktop\DBGame\app\src\main\AndroidManifest.xml:36:19-49
